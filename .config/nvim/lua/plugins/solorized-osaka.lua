@@ -18,5 +18,5 @@ return {
             require("solarized-osaka").setup(opts)
             vim.cmd.colorscheme("solarized-osaka")
         end,
-    }
+    },
 }
